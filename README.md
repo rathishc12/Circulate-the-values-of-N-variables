@@ -18,14 +18,21 @@ print the output
 ### Step 6: 
 ## Program:
 ```
+#Program to circulate N values.
+#Developed by: Rathish kuamr C
+#RegisterNumber:22009283
 def circulate():
     l=eval(input())
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
+
 ```
 ## Output:
-!["output"](/circulate%20output.png)
+![circulate](https://user-images.githubusercontent.com/120539398/213845003-f5492145-cecb-4dc2-8de7-50afb8e770a3.png)
+
+
+
 
 ## Result:
 Thus the python program for circulate the values for n variables is excecuted sucessfully
