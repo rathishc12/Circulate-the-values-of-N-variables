@@ -19,7 +19,7 @@ print the output
 ## Program:
 ```
 #Program to circulate N values.
-#Developed by: Rathish kuamr C
+#Developed by: Rathish kumar C
 #RegisterNumber:22009283
 def circulate():
     l=eval(input())
